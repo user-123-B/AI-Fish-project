@@ -24,4 +24,4 @@ CNN-BiLSTM：健康特徵分析（5ms/frame）
 #AI分析層:
 <img width="1621" height="1722" alt="image" src="https://github.com/user-attachments/assets/ab3dd525-1cfb-4344-b4c5-1a9b4a9e08cb" />
 #視覺化層:
-<img width="1848" height="1724" alt="image" src="https://github.com/user-attachments/assets/9e8cfa1d-cd32-42c1-8eac-c523b159e488" />
+<img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/9e8cfa1d-cd32-42c1-8eac-c523b159e488" />
