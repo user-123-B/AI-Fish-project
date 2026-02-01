@@ -4,7 +4,7 @@
 系統透過AI深度學習融合，提供即時數位孿生模擬，預測產量提升25%。                                                         
 # 動機:
 傳統養殖面臨勞力短缺、環境變異及決策延遲等挑戰，AI深度學習結合3D模擬可實現即時監測與優化決策，提升產量。
-#系統架構圖:
+# 系統架構圖:
 ![擷取](https://github.com/user-attachments/assets/19471aa3-a15f-4e2e-882a-c19d05dc9118)
 #模擬層:
 <img width="1546" height="1722" alt="image" src="https://github.com/user-attachments/assets/11f5ac3d-4fc4-40a5-ab8a-6c824ad5d392" />
