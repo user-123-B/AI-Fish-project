@@ -12,10 +12,9 @@
 *深度學習框架：PyTorch 2.1
 理由：靈活性強、ONNX匯出、社群大
 
-*3D平台：Unreal Engine 5 (C++)
-理由：效能高、C++原生支援、魚群大規模模擬
-替代方案：Unity（上手快，但效能較低）
-
+*3D平台：
+最終方案：Unity（上手快，但效能較低）
+適合初學者
 *AI模型：
 YOLOv8 Nano：魚類偵測（15ms/frame）
 CNN-BiLSTM：健康特徵分析（5ms/frame）
