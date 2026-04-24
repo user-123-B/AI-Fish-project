@@ -24,7 +24,7 @@ CNN-BiLSTM：健康特徵分析
 簡單MLP：快速異常二分類
 
 # 系統架構圖:
-<img width="3000" height="1688" alt="image" src="https://github.com/user-attachments/assets/5c463a91-5603-4681-ab27-9c16f310d1da" />
+<img width="1144" height="600" alt="image" src="https://github.com/user-attachments/assets/16bd7fae-a3a3-4f9d-a249-24816304542c" />
 
 
 #模擬層:
