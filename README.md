@@ -28,7 +28,7 @@ CNN-BiLSTM：健康特徵分析
 
 
 #模擬層:
-<img width="800" height="900" alt="架構-第 1 页 drawio" src="https://github.com/user-attachments/assets/2442e992-5e3e-49a9-a141-1a73ab3de4d9" />
+<img width="800" height="900" alt="架構-第 1 页 drawio" src="https://github.com/user-attachments/assets/09cba989-6951-4c34-824b-53218f978862" />
 
 #AI分析層:
 <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/ab3dd525-1cfb-4344-b4c5-1a9b4a9e08cb" />
